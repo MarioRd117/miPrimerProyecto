@@ -1,3 +1,5 @@
 generando nuevo conflicto desde vs code
 
+cambio desde mi rama
+
 cambios desde rama principal
