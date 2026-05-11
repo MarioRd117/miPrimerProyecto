@@ -1,0 +1,5 @@
+Este es un archivo de conflicto
+
+cambios desde la rama dev 2
+
+cambio desde main 2
